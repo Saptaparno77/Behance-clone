@@ -30,6 +30,3 @@ Then the project contain a responsive and attractive grid consist of data conten
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-Live link of the project:
-- (https://66536d89c5217297dcce1d68--quiet-buttercream-66f100.netlify.app/)
-This project is hosted on a app Netlify -A free web hosting website. 
